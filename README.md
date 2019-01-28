@@ -10,3 +10,7 @@ https://cpolar.com/
 https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 ### 接口调试工具
 https://mp.weixin.qq.com/debug/cgi-bin/apiinfo
+
+## Android 相关
+### 绿色应用
+https://green-android.org/
