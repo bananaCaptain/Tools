@@ -18,3 +18,5 @@ https://green-android.org/
 ## Mac 工具
 ### iTerm2
 https://www.cnblogs.com/xishuai/p/mac-iterm2.html
+### Go2Shell
+https://zipzapmac.com/Go2Shell
