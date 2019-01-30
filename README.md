@@ -27,7 +27,7 @@ https://www.wkhub.com/
 
 ## UI
 PxCook
-http://www.fancynode.com.cn/pxcook
+http://www.fancynode.com.cn/pxcook 个人免费，团队收费
 
 ## webview调试
 https://github.com/jieyou/remote_inspect_web_on_real_device
