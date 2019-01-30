@@ -24,6 +24,7 @@ https://zipzapmac.com/Go2Shell
 分屏工具
 ### 实用网站
 https://www.wkhub.com/
+http://soft.macx.cn/index.html
 
 ## UI
 PxCook
