@@ -24,3 +24,6 @@ https://zipzapmac.com/Go2Shell
 分屏工具
 ### 实用网站
 https://www.wkhub.com/
+
+## webview调试
+https://github.com/jieyou/remote_inspect_web_on_real_device
