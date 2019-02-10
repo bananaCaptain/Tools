@@ -27,6 +27,9 @@ https://zipzapmac.com/Go2Shell
 广告拦截
 
 ### 压缩软件
+The Unarchiver
+https://theunarchiver.com/
+
 
 ### 百度云不限速工具
 https://github.com/high-speed-downloader/high-speed-downloader
@@ -35,6 +38,8 @@ https://github.com/high-speed-downloader/high-speed-downloader
 https://www.wkhub.com/
 
 http://soft.macx.cn/index.html
+
+https://www.isofts.org/
 
 ## UI
 PxCook
