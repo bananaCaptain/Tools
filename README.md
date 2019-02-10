@@ -53,6 +53,8 @@ https://github.com/jieyou/remote_inspect_web_on_real_device
 ### 其他giter的工具库
 Louiszhai/tool
 
+https://listenzz.github.io/configue-mac-for-develop.html
+
 
 
 
