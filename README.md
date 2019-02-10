@@ -20,8 +20,17 @@ https://green-android.org/
 https://www.cnblogs.com/xishuai/p/mac-iterm2.html
 ### Go2Shell
 https://zipzapmac.com/Go2Shell
-### Size up
-分屏工具
+### Magnet
+窗口管理
+
+### AdGuard
+广告拦截
+
+### 压缩软件
+
+### 百度云不限速工具
+https://github.com/high-speed-downloader/high-speed-downloader
+
 ### 实用网站
 https://www.wkhub.com/
 
