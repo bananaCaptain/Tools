@@ -30,6 +30,12 @@ https://zipzapmac.com/Go2Shell
 The Unarchiver
 https://theunarchiver.com/
 
+### 流量显示工具
+Bandwidth+
+
+### 腾讯文件清理工具
+tencent-lemon
+
 
 ### 百度云不限速工具
 https://github.com/high-speed-downloader/high-speed-downloader
