@@ -16,6 +16,15 @@ https://mp.weixin.qq.com/debug/cgi-bin/apiinfo
 https://green-android.org/
 
 ## Mac 工具
+
+### Homebrew
+
+### Cakebrew
+
+### LaunchRocket
+
+### Alfred
+
 ### iTerm2
 https://www.cnblogs.com/xishuai/p/mac-iterm2.html
 ### Go2Shell
@@ -60,6 +69,9 @@ https://github.com/jieyou/remote_inspect_web_on_real_device
 Louiszhai/tool
 
 https://listenzz.github.io/configue-mac-for-develop.html
+
+
+### 如果希望对某一种工具的具体安装和使用需要描述可以提 issues
 
 
 
