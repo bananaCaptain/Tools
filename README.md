@@ -65,11 +65,15 @@ https://github.com/jieyou/remote_inspect_web_on_real_device
 
 
 
-### 其他giter的工具库
+## 其他giter的工具库
 Louiszhai/tool
 
 https://listenzz.github.io/configue-mac-for-develop.html
 
+## H5
+
+### sentry
+debug https://sentry.io/welcome/
 
 ### 如果希望对某一种工具的具体安装和使用需要描述可以提 issues
 
