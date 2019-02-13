@@ -78,6 +78,10 @@ https://ruby-china.org
 ### sentry
 debug https://sentry.io/welcome/
 
+### webpack
+中文 https://www.webpackjs.com/ 底部有多个中文页
+
+
 ### 如果希望对某一种工具的具体安装和使用需要描述可以提 issues
 
 
