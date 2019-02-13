@@ -72,6 +72,9 @@ https://listenzz.github.io/configue-mac-for-develop.html
 
 ## H5
 
+### ruby 相关
+https://ruby-china.org
+
 ### sentry
 debug https://sentry.io/welcome/
 
