@@ -85,7 +85,10 @@ debug https://sentry.io/welcome/
 https://github.com/liriliri/eruda 真机调试
 
 ### vConsole
-https://github.com/Tencent/vConsole/blob/dev/README_CN.md
+https://github.com/Tencent/vConsole/blob/dev/README_CN.md 腾讯真机调试
+
+### 调试方案
+https://juejin.im/post/5b72e1f66fb9a009d018fb94
 
 
 ### 如果希望对某一种工具的具体安装和使用需要描述可以提 issues
