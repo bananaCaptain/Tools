@@ -84,6 +84,9 @@ debug https://sentry.io/welcome/
 ### redux
 https://www.redux.org.cn/ 中文
 
+### 设备检查 兼容
+https://github.com/hgoebl/mobile-detect.js
+
 ### eruda
 https://github.com/liriliri/eruda 真机调试
 
