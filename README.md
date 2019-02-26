@@ -45,6 +45,8 @@ Bandwidth+
 ### 腾讯文件清理工具
 tencent-lemon
 
+### agalwood/Motrix
+下载工具
 
 ### 百度云不限速工具
 https://github.com/high-speed-downloader/high-speed-downloader
