@@ -56,6 +56,8 @@ http://soft.macx.cn/index.html
 
 https://www.isofts.org/
 
+https://www.iplaysoft.com/
+
 ## UI
 PxCook
 http://www.fancynode.com.cn/pxcook 个人免费，团队收费
