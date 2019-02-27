@@ -100,6 +100,9 @@ https://github.com/Tencent/vConsole/blob/dev/README_CN.md 腾讯真机调试
 ### 调试方案
 https://juejin.im/post/5b72e1f66fb9a009d018fb94
 
+### 自动生成 <video> 标签特定功能
+  https://onelineplayer.com/
+
 
 ### 如果希望对某一种工具的具体安装和使用需要描述可以提 issues
 
