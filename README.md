@@ -105,6 +105,9 @@ https://juejin.im/post/5b72e1f66fb9a009d018fb94
 
 ### 自动生成 <video> 标签特定功能
   https://onelineplayer.com/
+  
+### iamjoel/front-end-plugins  Web 前端常用插件
+https://github.com/iamjoel/front-end-plugins
 
 
 ### 如果希望对某一种工具的具体安装和使用需要描述可以提 issues
