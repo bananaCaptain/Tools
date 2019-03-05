@@ -76,6 +76,9 @@ https://listenzz.github.io/configue-mac-for-develop.html
 
 ## H5
 
+### 行业标准文档
+https://developer.mozilla.org/zh-CN/
+
 ### ruby 相关
 https://ruby-china.org
 
