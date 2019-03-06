@@ -109,6 +109,9 @@ https://juejin.im/post/5b72e1f66fb9a009d018fb94
 ### iamjoel/front-end-plugins  Web 前端常用插件
 https://github.com/iamjoel/front-end-plugins
 
+### 前端大牛集合
+https://juejin.im/post/5a9224c6f265da4e710f7786
+
 
 ### 如果希望对某一种工具的具体安装和使用需要描述可以提 issues
 
