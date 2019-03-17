@@ -17,6 +17,9 @@ https://green-android.org/
 
 ## Mac 工具
 
+### 掉电问题解决
+http://www.sohu.com/a/273027191_654244
+
 ### Homebrew
 
 ### Cakebrew
