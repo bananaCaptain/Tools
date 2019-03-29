@@ -117,6 +117,8 @@ https://juejin.im/post/5a9224c6f265da4e710f7786
 
 ### 富文本 WYSIWYG
 https://juejin.im/entry/56a9941e1532bc005304165b
+###富文本
+http://www.wangeditor.com/
 
 
 ### 如果希望对某一种工具的具体安装和使用需要描述可以提 issues
