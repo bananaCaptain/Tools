@@ -13,3 +13,6 @@
  pcm_alaw(g711)音频支持
  
  4.
+ 
+ 最后.通过参数设置解决一些播放问题
+ https://www.jianshu.com/p/220b00d00deb
